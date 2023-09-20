@@ -1,0 +1,15 @@
+.register__heading {
+    font-size: 18pt;
+}
+
+.register__content {
+    display: flex;
+    justify-content: center;
+}
+
+.yes_account {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
